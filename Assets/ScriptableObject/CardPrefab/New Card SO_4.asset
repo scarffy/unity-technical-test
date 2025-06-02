@@ -10,13 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de425a6fdf4f90b4d91e81608cb063c9, type: 3}
-  m_Name: Card_01
+  m_Name: New Card SO_4
   m_EditorClassIdentifier: 
-  CardName: 
-  Health: 0
-  Damage: 0
-  CardDescription: 
+  CardName: Card 4
+  Health: 100
+  Damage: 20
+  CardDescription: The lore or description of the card is written here
   CardSprite: {fileID: 0}
-  Ability: 0
-  EffectValue: 0
-  CardAbility: {fileID: 0}
+  CardAbility: {fileID: 11400000, guid: 50d571a9b991726468f03ce9d9282b19, type: 2}

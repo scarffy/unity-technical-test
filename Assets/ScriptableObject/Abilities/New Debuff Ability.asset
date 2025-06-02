@@ -9,14 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de425a6fdf4f90b4d91e81608cb063c9, type: 3}
-  m_Name: Card_01
+  m_Script: {fileID: 11500000, guid: 5103a7777ad7d164b9824c8f87a273f4, type: 3}
+  m_Name: New Debuff Ability
   m_EditorClassIdentifier: 
-  CardName: 
-  Health: 0
-  Damage: 0
-  CardDescription: 
-  CardSprite: {fileID: 0}
-  Ability: 0
-  EffectValue: 0
-  CardAbility: {fileID: 0}
+  damageReduction: 3
